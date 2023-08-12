@@ -38,9 +38,9 @@ Thus, we will build a model that independently forecasts the energy consumption 
 The code is split into two main components: the <code>pipeline</code> and the <code>web app</code>.
 The pipeline consists of 3 modules:
 
-- <code>feature-pipeline</code
-- <code>training-pipeline</code
-- <code>batch-prediction-pipeline</code
+- <code>feature-pipeline</code>
+- <code>training-pipeline</code>
+- <code>batch-prediction-pipeline</code>
 
 The web app consists of 3 other modules:
 
