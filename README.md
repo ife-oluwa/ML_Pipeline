@@ -8,3 +8,10 @@ In this project, I built a production-ready model forecasting energy connsumptio
 Also, the project demonstrates integrating an experiment tracker, model registry, a feature store (Hopsworks), Docker, Airflow and Github Actions.
 Below is the proposed pipeline architecture:
 ![](./Pipeline%20architecture.png)
+
+### The Data
+
+---
+
+I used an open API that provides hourly energy consumption values for all the energy consumer types in Denmark.
+They provide an intuitive interface which allows you to easily query and visualize the data [here](https://www.energidataservice.dk/tso-electricity/ConsumptionDE35Hour).
