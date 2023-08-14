@@ -2,7 +2,7 @@
 name = "app-frontend"
 version = "0.1.0"
 description = ""
-authors = ["Iusztin Paul <p.e.iusztin@gmail.com>", "Kurtis Pykes <kurtispykes@gmail.com>"]
+authors = ["Ifeoluwa Adeoye <ifeoluwaadeoye@gmail.com>"]
 readme = "README.md"
 packages = [{include = "frontend"}]
 

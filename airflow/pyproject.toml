@@ -1,10 +1,8 @@
 name = "energy-forecasting"
 version = "0.1.0"
 description = ""
-authors = [
-"Paul Iusztin <paul.lusztin@coreai.ai>",
-"Kurtis Pykes <kurtispykes@gmail.com>" 
-]
+authors = ["Ifeoluwa Adeoye <ifeoluwaadeoye@gmail.com>"]
+
 
 [tool.poetry.dependencies]
 python = "~3.9"
