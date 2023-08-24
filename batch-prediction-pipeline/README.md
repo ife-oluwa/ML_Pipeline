@@ -29,7 +29,7 @@ poetry install
 
 ## Usage for Development
 
----s
+---
 To start batch prediction script, run:
 
 ```shell
